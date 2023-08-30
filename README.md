@@ -4,4 +4,4 @@
 
 LinkedIn:https://www.linkedin.com/in/camila-abreu-933667239/
 
-![Camila Abreu GitHub stats](	https://github-readme-stats.vercel.app/api?username={camilaabreusouza25}&theme=dracula)
+![Camila Abreu GitHub stats](https://github-readme-stats.vercel.app/api?username=camilaabreusouza25&show_icons=true&theme=dracula)
